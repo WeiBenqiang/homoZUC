@@ -1,4 +1,0 @@
-/home/lab/PPML/ZUC_TFHE/build/CMakeFiles/rebuild_cache.dir
-/home/lab/PPML/ZUC_TFHE/build/CMakeFiles/edit_cache.dir
-/home/lab/PPML/ZUC_TFHE/build/CMakeFiles/homoZUC.dir
-/home/lab/PPML/ZUC_TFHE/build/CMakeFiles/testzuc.dir
