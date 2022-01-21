@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lab/PPML/ZUC_TFHE/homozuc.cpp
+iostream
+-
+tfhe/tfhe_core.h
+-
+tfhe/tfhe.h
+-
+tfhe/tfhe_garbage_collector.h
+-
+time.h
+-
+zuc.h
+/home/lab/PPML/ZUC_TFHE/zuc.h
+
+/home/lab/PPML/ZUC_TFHE/zuc.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

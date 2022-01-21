@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lab/PPML/ZUC_TFHE/zuc.c
+zuc.h
+/home/lab/PPML/ZUC_TFHE/zuc.h
+
+/home/lab/PPML/ZUC_TFHE/zuc.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

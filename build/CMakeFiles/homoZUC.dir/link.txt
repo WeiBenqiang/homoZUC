@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/homoZUC.dir/zuc.c.o CMakeFiles/homoZUC.dir/homozuc.cpp.o  -o homoZUC  -ltfhe-spqlios-fma 
