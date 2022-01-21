@@ -1,0 +1,6 @@
+build
+result.txt
+should.txt
+init_result.txt
+homozuc_parallel.cpp
+zuctest.c
